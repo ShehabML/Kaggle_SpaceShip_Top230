@@ -1,0 +1,11 @@
+## we have some null values to invetegate 
+
+1 -!would be better to split PassangerID to get more info for those who was with eachother 
+2- !!add col for has family or not maybe ?
+
+
+for HomePlanet we might assume that eatheir there is another planet unmentioned or fill them with the last passanger planet 
+as it be the case that they got in with each other 
+
+
+!! for CryoSleep we might suggest that those who's missing probably aren't  in CryoSleep but will try both 
